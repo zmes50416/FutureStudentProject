@@ -1,0 +1,54 @@
+/*.about {
+    background-image: url('/images/about.jpg');
+}
+*/
+ .headbg {
+    min-height: 200px;
+    padding-top: 25%;
+    max-height: 400px;
+    background-position: center center;
+    background-size: cover;
+    /*background-color: #666;*/
+    /*background-attachment: fixed;*/
+}
+/*Picutre 16 : 6*/
+ .headbg[data-bg="2"] {
+    background-image: url('../../images/about.jpg');
+}
+.headbg[data-bg="3"] {
+    background-image: url('../../images/application.jpg');
+}
+.headbg[data-bg="4"] {
+    background-image: url('../../images/dance.jpg');
+}
+.headbg[data-bg="5"] {
+    background-image: url('../../images/FutureWay.jpg');
+}
+.headbg[data-bg="6"] {
+    background-image: url('../../images/project.jpg');
+}
+.headbg img {
+    display: block;
+    margin: auto;
+    min-width: 100%;
+    max-width: 100%;
+    max-height: 400px;
+    min-height: 150px;
+    overflow: hidden;
+}
+.sideBar .nav ul {
+    display: none;
+}
+.sideBar .nav>.active>ul {
+    display: block;
+}
+.smallDemo {
+    max-height: 500px;
+}
+@media (max-width: 1100px) {
+    .sideBar {
+        position: static;
+        width: auto;
+        top: 0;
+    }
+}

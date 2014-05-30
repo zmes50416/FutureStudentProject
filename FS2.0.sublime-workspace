@@ -1,0 +1,1284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"C",
+				"command"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"to",
+				"to_24_hour_clock"
+			],
+			[
+				"sec",
+				"seconds"
+			],
+			[
+				"hour",
+				"hours"
+			],
+			[
+				"time",
+				"time_2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "feature.kit",
+			"settings":
+			{
+				"buffer_size": 25675,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 10 files for \"img\"\n\n/Users/Dean/Sites/FStest/application.kit:\n   36              <h3>簡章</h3>\n   37              <a class=\"thumbnail\" href=\"./images/Apply/NCUIM_PersonalApply.png\" target=\"_blank\">\n   38:                 <img class=\"lazy\" data-original=\"./images/Apply/NCUIM_PersonalApply.png\" alt=\"個人申請簡章\" width=\"100%\">\n   39              </a>\n   40              <h3>口試流程</h3>\n   ..\n  234              <h3>簡章</h3>\n  235              <a class=\"thumbnail\" href=\"./images/Apply/NCUIM_StarPlan.png\" target=\"_blank\">\n  236:                 <img class=\"lazy\" data-original=\"./images/Apply/NCUIM_StarPlan.png\" alt=\"繁星計劃簡章\" width=\"100%\" />\n  237              </a>\n  238              <h3>歷年錄取名額與錄取級分</h3>\n\n/Users/Dean/Sites/FStest/feature.kit:\n   61                      <div class=\"thumbnail\">\n   62                          <a class=\"thumbnail\" href=\"./images/table/classInfo.png\" target=\"_blankt\">\n   63:                             <img class=\"\" src=\"./images/table/classInfo.png\" title=\"\">\n   64                          </a>\n   65                          <div class=\"caption\">\n   ..\n  107                                  </div>\n  108                                  <div class=\"col-sm-6\">\n  109:                                     <img class=\"lazy\" data-original=\"./images/table/ERPTable.png\" width=\"100%\" />\n  110                                  </div>\n  111                              </div>\n  ...\n  133                                  </div>\n  134                                  <div class=\"col-sm-6\">\n  135:                                     <img class=\"lazy\" data-original=\"./images/table/ECTable.png\" width=\"100%\" />\n  136  \n  137                                  </div>\n  ...\n  157                              </div>\n  158                              <div class=\"col-sm-6\">\n  159:                                 <img class=\"lazy\" data-original=\"./images/table/CreativeTable.png\" width=\"100%\" />\n  160                              </div>\n  161                          </div>\n  ...\n  226                                      <div class=\"thumbnail\">\n  227                                          <!-- <div class=\"nailthumb-container square-thumb\"> -->\n  228:                                         <img class=\"smallDemo lazy\" title=\"各學系應修目表\" data-original=\"./images/Table/twoMajorTable.png\" />\n  229                                          <div class=\"caption\">\n  230                                              <h4>各學系應修目表</h4>\n  ...\n  269                  <div class=\"col-sm-6 col-md-6\">\n  270                      <div class=\"thumbnail\">\n  271:                         <img class=\"lazy img-thumbnail\" data-original=\"./images/ERP/ERPArch.png\" alt=\"ERP模組\">\n  272                          <div class=\"caption\">\n  273                              <h3>模組介紹</h3>\n  ...\n  277                  <div class=\"col-sm-6 col-md-6\">\n  278                      <div class=\"thumbnail\">\n  279:                         <img class=\"lazy img-thumbnail\" data-original=\"./images/ERP/ERPTeam.jpg\" alt=\"ERP團隊\">\n  280                          <div class=\"caption\">\n  281                              <h3>ERP團隊</h3>\n  ...\n  493                  <div class=\"thumbnail\">\n  494                      <div class=\"col-md-6 col-sm-6\">\n  495:                         <img class=\"lazy img-thumbnail\" data-original=\"./images/Bussiness/1.JPG\" />\n  496                      </div>\n  497                      <div class=\"col-md-6 col-sm-6\">\n  498:                         <img class=\"lazy img-thumbnail\" data-original=\"./images/Bussiness/2.JPG\" />\n  499                      </div>\n  500  \n  ...\n  596              <hr class=\"featurette-divider\">\n  597              <h1 id=\"communicate\">兩岸青年交流</h1>\n  598:             <img class=\"lazy img-thumbnail\" data-original=\"./images/china/crossCamp.jpg\" alt=\"cover\" />\n  599              <p>想到出國卻不知道去哪嗎?想進一步了解對岸學生嗎?那就參加「兩岸青年交流」活動吧！</p>\n  600              <h3>活動目的：</h3>\n  ...\n  603              </p>\n  604              <strong>如下圖，近年累計共與13省高校交流互訪</strong>\n  605:             <img class=\"lazy img-thumbnail\" alt=\"map\" data-original=\"./images/china/01.jpg\" width=\"100%\" />\n  606              <br />\n  607              <h3>歷年參與人數：</h3>\n\n/Users/Dean/Sites/FStest/index.kit:\n   22          <div class=\"carousel-inner\" style=\"overflow:none;\">\n   23              <div class=\"item active\">\n   24:                 <img src=\"./images/HomePhoto/haochi.jpg\" alt=\"First slide\">\n   25                  <div class=\"container\">\n   26                      <div class=\"carousel-caption\">\n   ..\n   33              </div>\n   34              <div class=\"item\">\n   35:                 <img src=\"./images/HomePhoto/sport.jpg\" alt=\"Second slide\">\n   36                  <div class=\"container\">\n   37                      <div class=\"carousel-caption\">\n   ..\n   43              </div>\n   44              <div class=\"item\">\n   45:                 <img src=\"./images/HomePhoto/MIS.jpg\" alt=\"Third slide\">\n   46                  <div class=\"container\">\n   47                      <div class=\"carousel-caption\">\n   ..\n   53              </div>\n   54              <div class=\"item\">\n   55:                 <img src=\"./images/HomePhoto/group.jpg\" alt=\"Fourth slide\">\n   56                  <div class=\"container\">\n   57                      <div class=\"carousel-caption\">\n   ..\n   83          </div>\n   84          <div class=\"col-md-5\">\n   85:             <img class=\"featurette-image img-responsive img-circle\" src=\"./images/index1.jpg\n   86  \" alt=\"Generic placeholder image\">\n   87          </div>\n   ..\n   92      <div class=\"row featurette\">\n   93          <div class=\"col-md-5\">\n   94:             <img class=\"lazy featurette-image img-responsive img-circle\" data-original=\"./images/index2.jpg\" alt=\"Generic placeholder image\">\n   95          </div>\n   96          <div class=\"col-md-7\">\n   ..\n  109          <div class=\"col-md-5\">\n  110              <!-- <div class=\"thumbnail\"> -->\n  111:             <img class=\"lazy featurette-image img-responsive img-circle\" data-original=\"./images/index3.jpg\" alt=\"\">\n  112              <!-- </div> -->\n  113          </div>\n\n/Users/Dean/Sites/FStest/include/footer.kit:\n   18  <script type=\"text/javascript\">\n   19  $(function() {\n   20:     $(\"img.lazy\").lazyload();\n   21  });\n   22  </script>\n\n33 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 6274,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "include/header.kit",
+			"settings":
+			{
+				"buffer_size": 3692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/Variable.Kit",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.kit",
+			"settings":
+			{
+				"buffer_size": 4777,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"e",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"e c",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"emmet",
+				"Emmet: Select Next Item"
+			],
+			[
+				"emm",
+				"Emmet: Rename Tag"
+			],
+			[
+				"pre",
+				"Preferences: Settings - Default"
+			],
+			[
+				"preti",
+				"Preferences: Settings - User"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"n e",
+				"Emmet: Next Edit Point"
+			],
+			[
+				"prj",
+				"Project: Close"
+			],
+			[
+				"tc",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"t c",
+				"Toggle Block Comment"
+			],
+			[
+				"",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"au",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"I P",
+				"Package Control: Install Package"
+			],
+			[
+				"p c",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"p i",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 515.0
+	},
+	"console":
+	{
+		"height": 116.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Dean/Sites/FStest/feature.kit",
+		"/Users/Dean/Sites/FStest/application.kit",
+		"/Users/Dean/Sites/FStest/index.kit",
+		"/Users/Dean/Sites/FStest/Project.kit",
+		"/Users/Dean/Sites/FStest/Project.html",
+		"/Users/Dean/Sites/FStest/include/header.kit",
+		"/Users/Dean/Sites/FStest/about.kit",
+		"/Users/Dean/Sites/FStest/FutureWay.kit",
+		"/Users/Dean/Sites/FStest/images/PSD/兩岸大學生研習營",
+		"/Users/Dean/Sites/FStest/index.html",
+		"/Users/Dean/Sites/FStest/js/scrollspy.js",
+		"/Users/Dean/Sites/FStest/docs-assets/js/filesaver.js",
+		"/Users/Dean/Sites/FStest/include/Variable.Kit",
+		"/Users/Dean/Sites/FStest/include/footer.kit",
+		"/Users/Dean/Sites/FStest/assets/css/global.css",
+		"/Users/Dean/Sites/FStest/about.html",
+		"/Users/Dean/Sites/FStest/assets/css/carousel.css",
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Dean/Sites/FStest/FS2.0.sublime-project",
+		"/Users/Dean/Sites/FStest/dist/fonts/glyphicons-halflings-regular.svg",
+		"/Users/Dean/Sites/FStest/include/header.html",
+		"/Users/Dean/Sites/FStest/page.kit",
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/Dean/Sites/FStest/FutureWay.html",
+		"/Users/Dean/Sites/FStest/js/carousel.js",
+		"/Users/Dean/Sites/FStest/js/tab.js",
+		"/Users/Dean/Sites/FStest/application.html",
+		"/Users/Dean/Sites/FStest/dist/css/jquery.nailthumb.1.1.css",
+		"/Users/Dean/Sites/FStest/jquery.nailthumb.1.1.js",
+		"/Users/Dean/Sites/FStest/nailthumb/jquery.nailthumb.less",
+		"/Users/Dean/Sites/FStest/feature.html",
+		"/Volumes/140.115.83.190/backend/photoupload_do.php",
+		"/Users/Dean/Sites/FStest/footer.html",
+		"/Users/Dean/Sites/FStest/footer.kit",
+		"/Users/Dean/Sites/FStest/about/about.kit",
+		"/Users/Dean/Sites/FStest/config.codekit",
+		"/Users/Dean/Sites/FStest/about/about.html",
+		"/Users/Dean/Sites/FStest/page.html",
+		"/Users/Dean/Sites/FStest/include/Variable.html",
+		"/Users/Dean/Sites/Future/index.php",
+		"/Users/Dean/Sites/Future/include/footer.php",
+		"/Users/Dean/Sites/Future/02/main.php",
+		"/Users/Dean/Sites/Future/03/main.php",
+		"/Users/Dean/Sites/Future/index/main.php",
+		"/Users/Dean/Sites/Future/01/main.php",
+		"/Users/Dean/Sites/Future/css.css",
+		"/Users/Dean/Sites/Future/sftp-config.json",
+		"/Users/Dean/Sites/Future/04/main.php",
+		"/Users/Dean/Sites/Future/05/main.php",
+		"/Users/Dean/Sites/Future/include/modifyTimer.php",
+		"/Users/Dean/Sites/Future/futureStudent.sublime-project",
+		"/Users/Dean/Sites/Future/db.php",
+		"/Users/Dean/Sites/Future/codekit-config.json",
+		"/Users/Dean/Sites/Future/css/test.css",
+		"/Users/Dean/Desktop/雙主修與輔修.html",
+		"/Users/Dean/Desktop/辦學特色.html",
+		"/Users/Dean/Desktop/課程資訊.html",
+		"/Users/Dean/Desktop/獎學金.html",
+		"/Users/Dean/Desktop/企業導師.html",
+		"/Users/Dean/Desktop/兩岸青年交流.html",
+		"/Users/Dean/Sites/bootstrap/javascript.html",
+		"/Users/Dean/Desktop/test.html",
+		"/Users/Dean/Downloads/bootstrap-3.0.3/dist/css/bootstrap.css",
+		"/Users/Dean/Downloads/bootstrap-3.0.3/examples/navbar/navbar.css",
+		"/Users/Dean/Downloads/bootstrap-3.0.3/examples/navbar/index.html",
+		"/Users/Dean/Desktop/test.css",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/Dean/Downloads/a1.py"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 175.0,
+		"where_history":
+		[
+			"<open folders>,*.kit",
+			"<open folders>,-*.codekit",
+			"<open folders>",
+			"/Users/Dean/Sites/Future"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"/image",
+			"/im",
+			"s\"/\"im",
+			"s\"/im",
+			"\"/im",
+			"\"/imag",
+			"/imag",
+			"../i",
+			"star",
+			"#star",
+			"/image",
+			"nail",
+			"lazy",
+			"h4",
+			"h3",
+			"classInfo",
+			"img",
+			"hidden",
+			"src",
+			"coomment",
+			"command",
+			"cmd",
+			"img",
+			"../",
+			"./",
+			"詳細",
+			"xs",
+			"\">\n",
+			"xs",
+			"sd",
+			"lazy",
+			"src",
+			"png",
+			"auto",
+			"feat",
+			"img",
+			"div",
+			"li",
+			"ul",
+			"strong",
+			"<a",
+			"li",
+			"=\"",
+			"li",
+			"ul",
+			"<li",
+			"li",
+			"strong",
+			"ul",
+			"md",
+			"<li",
+			"li",
+			"div",
+			"class",
+			"ol",
+			"nailthumb-container square-thumb",
+			"dualmain",
+			"雙",
+			"雙主",
+			"雙主修",
+			"雙主",
+			"雙",
+			"雙主修",
+			"thumbnail",
+			"info",
+			"nail",
+			"panel-titl",
+			"panel-body",
+			"panel-default",
+			"panel-gr",
+			"panel",
+			"main02B",
+			"main02",
+			"li",
+			"h1",
+			"ol",
+			"table",
+			"學分學",
+			"                <!-- <figcaption>管理學院 資訊管理學系應修科目表 102學年度入學新生適用</figcaption> -->\n",
+			"01",
+			"classinfo",
+			"comm",
+			"h1",
+			"strong",
+			"img",
+			"table",
+			"h1",
+			"img",
+			"h1",
+			"Bteacher",
+			"id",
+			"thumbnail",
+			"img",
+			"jquery",
+			"img",
+			"script",
+			"98",
+			"feat",
+			"table",
+			"h1",
+			"/a",
+			"href",
+			"img",
+			"sportrecommend",
+			"foreign",
+			"class",
+			"group",
+			"<li>",
+			"li",
+			"h1",
+			"<a",
+			"a",
+			"a'",
+			"a",
+			"h1",
+			"p",
+			"cellspacing",
+			"h1",
+			"image",
+			"id",
+			"h3",
+			"h1",
+			"color",
+			"@",
+			"介紹",
+			"sep",
+			".."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"./i"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "feature.kit",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6274,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										230,
+										233
+									],
+									[
+										545,
+										548
+									],
+									[
+										937,
+										940
+									],
+									[
+										1242,
+										1245
+									],
+									[
+										1565,
+										1568
+									],
+									[
+										1841,
+										1844
+									],
+									[
+										2227,
+										2230
+									],
+									[
+										2603,
+										2606
+									],
+									[
+										2619,
+										2622
+									],
+									[
+										2934,
+										2937
+									],
+									[
+										2950,
+										2953
+									],
+									[
+										3266,
+										3269
+									],
+									[
+										3282,
+										3285
+									],
+									[
+										3466,
+										3469
+									],
+									[
+										3482,
+										3485
+									],
+									[
+										3712,
+										3715
+									],
+									[
+										3728,
+										3731
+									],
+									[
+										4010,
+										4013
+									],
+									[
+										4026,
+										4029
+									],
+									[
+										4340,
+										4343
+									],
+									[
+										4598,
+										4601
+									],
+									[
+										4856,
+										4859
+									],
+									[
+										5111,
+										5114
+									],
+									[
+										5361,
+										5364
+									],
+									[
+										5389,
+										5392
+									],
+									[
+										5404,
+										5407
+									],
+									[
+										5609,
+										5612
+									],
+									[
+										5642,
+										5645
+									],
+									[
+										5657,
+										5660
+									],
+									[
+										5914,
+										5917
+									],
+									[
+										5947,
+										5950
+									],
+									[
+										5962,
+										5965
+									],
+									[
+										6196,
+										6199
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								938,
+								938
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 222.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "include/header.kit",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1074,
+								1074
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "include/Variable.Kit",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.kit",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 356.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "FS2.0.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pr",
+				"Project.kit"
+			],
+			[
+				"pro",
+				"Project.html"
+			],
+			[
+				"fut",
+				"FutureWay.kit"
+			],
+			[
+				"fe",
+				"feature.kit"
+			],
+			[
+				"app",
+				"application.kit"
+			],
+			[
+				"in",
+				"index.kit"
+			],
+			[
+				"",
+				"include/Variable.Kit"
+			],
+			[
+				"h",
+				"include/header.kit"
+			],
+			[
+				"var",
+				"include/Variable.Kit"
+			],
+			[
+				"hea",
+				"include/header.kit"
+			],
+			[
+				"he",
+				"include/header.kit"
+			],
+			[
+				"ab",
+				"about.kit"
+			],
+			[
+				"ap",
+				"application.kit"
+			],
+			[
+				"css",
+				"assets/css/global.css"
+			],
+			[
+				"fo",
+				"include/footer.kit"
+			],
+			[
+				"c",
+				"assets/css/carousel.css"
+			],
+			[
+				"g",
+				"assets/css/global.css"
+			],
+			[
+				"a",
+				"application.kit"
+			],
+			[
+				"foo",
+				"include/footer.kit"
+			],
+			[
+				"head",
+				"include/header.kit"
+			],
+			[
+				"ind",
+				"index.kit"
+			],
+			[
+				"f",
+				"feature.kit"
+			],
+			[
+				"cs",
+				"assets/css/carousel.css"
+			],
+			[
+				"fu",
+				"FutureWay.kit"
+			],
+			[
+				"p",
+				"Project.kit"
+			],
+			[
+				"fea",
+				"feature.kit"
+			],
+			[
+				"pa",
+				"page.kit"
+			],
+			[
+				"pag",
+				"page.kit"
+			],
+			[
+				"abo",
+				"about.kit"
+			],
+			[
+				"ca",
+				"assets/css/carousel.css"
+			],
+			[
+				"fw",
+				"FutureWay.kit"
+			],
+			[
+				"jqnc",
+				"dist/css/jquery.nailthumb.1.1.css"
+			],
+			[
+				"inde",
+				"index.kit"
+			],
+			[
+				"abk",
+				"about.kit"
+			],
+			[
+				"about",
+				"about.kit"
+			],
+			[
+				"mo",
+				"include/modifyTimer.php"
+			],
+			[
+				"ins",
+				"Find Results"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
