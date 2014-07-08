@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getScript"
+			],
+			[
 				"mi",
 				"min-width"
 			],
@@ -92,44 +100,47 @@
 	"buffers":
 	[
 		{
-			"file": "feature.kit",
+			"file": "include/footer.kit",
 			"settings":
 			{
-				"buffer_size": 25675,
+				"buffer_size": 1183,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "Searching 10 files for \"img\"\n\n/Users/Dean/Sites/FStest/application.kit:\n   36              <h3>簡章</h3>\n   37              <a class=\"thumbnail\" href=\"./images/Apply/NCUIM_PersonalApply.png\" target=\"_blank\">\n   38:                 <img class=\"lazy\" data-original=\"./images/Apply/NCUIM_PersonalApply.png\" alt=\"個人申請簡章\" width=\"100%\">\n   39              </a>\n   40              <h3>口試流程</h3>\n   ..\n  234              <h3>簡章</h3>\n  235              <a class=\"thumbnail\" href=\"./images/Apply/NCUIM_StarPlan.png\" target=\"_blank\">\n  236:                 <img class=\"lazy\" data-original=\"./images/Apply/NCUIM_StarPlan.png\" alt=\"繁星計劃簡章\" width=\"100%\" />\n  237              </a>\n  238              <h3>歷年錄取名額與錄取級分</h3>\n\n/Users/Dean/Sites/FStest/feature.kit:\n   61                      <div class=\"thumbnail\">\n   62                          <a class=\"thumbnail\" href=\"./images/table/classInfo.png\" target=\"_blankt\">\n   63:                             <img class=\"\" src=\"./images/table/classInfo.png\" title=\"\">\n   64                          </a>\n   65                          <div class=\"caption\">\n   ..\n  107                                  </div>\n  108                                  <div class=\"col-sm-6\">\n  109:                                     <img class=\"lazy\" data-original=\"./images/table/ERPTable.png\" width=\"100%\" />\n  110                                  </div>\n  111                              </div>\n  ...\n  133                                  </div>\n  134                                  <div class=\"col-sm-6\">\n  135:                                     <img class=\"lazy\" data-original=\"./images/table/ECTable.png\" width=\"100%\" />\n  136  \n  137                                  </div>\n  ...\n  157                              </div>\n  158                              <div class=\"col-sm-6\">\n  159:                                 <img class=\"lazy\" data-original=\"./images/table/CreativeTable.png\" width=\"100%\" />\n  160                              </div>\n  161                          </div>\n  ...\n  226                                      <div class=\"thumbnail\">\n  227                                          <!-- <div class=\"nailthumb-container square-thumb\"> -->\n  228:                                         <img class=\"smallDemo lazy\" title=\"各學系應修目表\" data-original=\"./images/Table/twoMajorTable.png\" />\n  229                                          <div class=\"caption\">\n  230                                              <h4>各學系應修目表</h4>\n  ...\n  269                  <div class=\"col-sm-6 col-md-6\">\n  270                      <div class=\"thumbnail\">\n  271:                         <img class=\"lazy img-thumbnail\" data-original=\"./images/ERP/ERPArch.png\" alt=\"ERP模組\">\n  272                          <div class=\"caption\">\n  273                              <h3>模組介紹</h3>\n  ...\n  277                  <div class=\"col-sm-6 col-md-6\">\n  278                      <div class=\"thumbnail\">\n  279:                         <img class=\"lazy img-thumbnail\" data-original=\"./images/ERP/ERPTeam.jpg\" alt=\"ERP團隊\">\n  280                          <div class=\"caption\">\n  281                              <h3>ERP團隊</h3>\n  ...\n  493                  <div class=\"thumbnail\">\n  494                      <div class=\"col-md-6 col-sm-6\">\n  495:                         <img class=\"lazy img-thumbnail\" data-original=\"./images/Bussiness/1.JPG\" />\n  496                      </div>\n  497                      <div class=\"col-md-6 col-sm-6\">\n  498:                         <img class=\"lazy img-thumbnail\" data-original=\"./images/Bussiness/2.JPG\" />\n  499                      </div>\n  500  \n  ...\n  596              <hr class=\"featurette-divider\">\n  597              <h1 id=\"communicate\">兩岸青年交流</h1>\n  598:             <img class=\"lazy img-thumbnail\" data-original=\"./images/china/crossCamp.jpg\" alt=\"cover\" />\n  599              <p>想到出國卻不知道去哪嗎?想進一步了解對岸學生嗎?那就參加「兩岸青年交流」活動吧！</p>\n  600              <h3>活動目的：</h3>\n  ...\n  603              </p>\n  604              <strong>如下圖，近年累計共與13省高校交流互訪</strong>\n  605:             <img class=\"lazy img-thumbnail\" alt=\"map\" data-original=\"./images/china/01.jpg\" width=\"100%\" />\n  606              <br />\n  607              <h3>歷年參與人數：</h3>\n\n/Users/Dean/Sites/FStest/index.kit:\n   22          <div class=\"carousel-inner\" style=\"overflow:none;\">\n   23              <div class=\"item active\">\n   24:                 <img src=\"./images/HomePhoto/haochi.jpg\" alt=\"First slide\">\n   25                  <div class=\"container\">\n   26                      <div class=\"carousel-caption\">\n   ..\n   33              </div>\n   34              <div class=\"item\">\n   35:                 <img src=\"./images/HomePhoto/sport.jpg\" alt=\"Second slide\">\n   36                  <div class=\"container\">\n   37                      <div class=\"carousel-caption\">\n   ..\n   43              </div>\n   44              <div class=\"item\">\n   45:                 <img src=\"./images/HomePhoto/MIS.jpg\" alt=\"Third slide\">\n   46                  <div class=\"container\">\n   47                      <div class=\"carousel-caption\">\n   ..\n   53              </div>\n   54              <div class=\"item\">\n   55:                 <img src=\"./images/HomePhoto/group.jpg\" alt=\"Fourth slide\">\n   56                  <div class=\"container\">\n   57                      <div class=\"carousel-caption\">\n   ..\n   83          </div>\n   84          <div class=\"col-md-5\">\n   85:             <img class=\"featurette-image img-responsive img-circle\" src=\"./images/index1.jpg\n   86  \" alt=\"Generic placeholder image\">\n   87          </div>\n   ..\n   92      <div class=\"row featurette\">\n   93          <div class=\"col-md-5\">\n   94:             <img class=\"lazy featurette-image img-responsive img-circle\" data-original=\"./images/index2.jpg\" alt=\"Generic placeholder image\">\n   95          </div>\n   96          <div class=\"col-md-7\">\n   ..\n  109          <div class=\"col-md-5\">\n  110              <!-- <div class=\"thumbnail\"> -->\n  111:             <img class=\"lazy featurette-image img-responsive img-circle\" data-original=\"./images/index3.jpg\" alt=\"\">\n  112              <!-- </div> -->\n  113          </div>\n\n/Users/Dean/Sites/FStest/include/footer.kit:\n   18  <script type=\"text/javascript\">\n   19  $(function() {\n   20:     $(\"img.lazy\").lazyload();\n   21  });\n   22  </script>\n\n33 matches across 4 files\n",
+			"contents": "Searching 10 files for \"$('body').scrollspy({\n    target: '.sideBar'\n});\"\n\n/Users/Dean/Sites/FStest/about.kit:\n  172  <!-- @import ./include/footer -->\n  173  <script type=\"text/javascript\">\n  174: $('body').scrollspy({\n  175:     target: '.sideBar'\n  176: });\n  177  </script>\n  178  \n\n/Users/Dean/Sites/FStest/application.kit:\n  358  <!-- @import ./include/footer-->\n  359  <script type=\"text/javascript\">\n  360: $('body').scrollspy({\n  361:     target: '.sideBar'\n  362: });\n  363  </script>\n  364  \n\n/Users/Dean/Sites/FStest/feature.kit:\n  663  <!-- @import ./include/footer -->\n  664  <script type=\"text/javascript\">\n  665: $('body').scrollspy({\n  666:     target: '.sideBar'\n  667: });\n  668  </script>\n  669  \n\n/Users/Dean/Sites/FStest/FutureWay.kit:\n  261  <!-- @import ./include/footer -->\n  262  <script type=\"text/javascript\">\n  263: $('body').scrollspy({\n  264:     target: '.sideBar'\n  265: });\n  266  </script>\n  267  \n\n/Users/Dean/Sites/FStest/page.kit:\n   56  <!-- @import ./include/footer -->\n   57  <script type=\"text/javascript\">\n   58: $('body').scrollspy({\n   59:     target: '.sideBar'\n   60: });\n   61  </script>\n   62  \n\n/Users/Dean/Sites/FStest/Project.kit:\n  105  <!-- @import ./include/footer -->\n  106  <script type=\"text/javascript\">\n  107: $('body').scrollspy({\n  108:     target: '.sideBar'\n  109: });\n  110  </script>\n  111  \n\n6 matches across 6 files\n",
 			"settings":
 			{
-				"buffer_size": 6274,
+				"buffer_size": 1384,
 				"line_ending": "Unix",
 				"name": "Find Results",
 				"scratch": true
 			}
 		},
 		{
+			"file": "Project.kit",
+			"settings":
+			{
+				"buffer_size": 3585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!-- @import Variable -->\n\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"中央資管的未來學生專區;中央資管隸屬於管理學院，培養學生開發及資訊系統開發的專業能力，提供國內企業所需之資訊人才，並且具備豐富的獎學金資源來獎勵優秀的學生。\">\n    <meta name=\"author\" content=\"\">\n    <meta name=\"keyword\" content=\"NCU ,IM ,未來學生專區 ,資管 ,中央大學\">\n    <link rel=\"shortcut icon\" href=\"/docs-assets/ico/favicon.png\">\n\n    <title>\n        <!-- $title -->\n    </title>\n\n    \n\n    <!--[if lt IE 9]><script src=\"../../docs-assets/js/ie8-responsive-file-warning.js\"></script><![endif]-->\n\n    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!--[if\n lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n      <script src=\"https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js\"></script>\n    <![endif]-->\n    <script>\n    (function(i, s, o, g, r, a, m) {\n        i['GoogleAnalyticsObject'] = r;\n        i[r] = i[r] || function() {\n            (i[r].q = i[r].q || []).push(arguments)\n        }, i[r].l = 1 * new Date();\n        a = s.createElement(o),\n        m = s.getElementsByTagName(o)[0];\n        a.async = 1;\n        a.src = g;\n        m.parentNode.insertBefore(a, m)\n    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');\n\n    ga('create', 'UA-12529451-7', 'autu');\n    ga('require', 'displayfeatures');\n    ga('require', 'linkid', 'linkid.js');\n    ga('send', 'pageview');\n    </script>\n</head>\n\n<body>\n    <div class=\"navbar-wrapper\">\n        <div class=\"container\">\n\n            <div class=\"navbar navbar-inverse navbar-static-top\" id=\"mainNavBar\" role=\"navigation\">\n                <div class=\"container\">\n                    <div class=\"navbar-header\">\n                        <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n                            <span class=\"sr-only\">Toggle navigation</span>\n                            <span class=\"icon-bar\"></span>\n                            <span class=\"icon-bar\"></span>\n                            <span class=\"icon-bar\"></span>\n                        </button>\n                        <a class=\"navbar-brand\" href=\".\">中央資管未來學生專區</a>\n                    </div>\n                    <div class=\"navbar-collapse collapse\">\n                        <ul class=\"nav navbar-nav\">\n                            <li class=\"<!-- $page_1_nav -->\"><a href=\"index.html\">首頁</a>\n                            </li>\n                            <li class=\"<!-- $page_2_nav -->\"><a href=\"about.html\">基本認知</a>\n                            </li>\n                            <li class=\"<!-- $page_3_nav -->\"><a href=\"application.html\">入學管道</a>\n                            </li>\n                            <li class=\"<!-- $page_4_nav -->\"><a href=\"feature.html\">充實學養</a>\n                            </li>\n                            <li class=\"<!-- $page_5_nav -->\"><a href=\"FutureWay.html\">未來出路</a>\n                            </li>\n                            <li class=\"<!-- $page_6_nav -->\"><a href=\"Project.html\">專題介紹</a>\n                            </li>\n                            <li><a href=\"http://im.mgt.ncu.edu.tw/06/main.php\" target=\"_blank\">活動剪影</a>\n                            </li>\n                        </ul>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n",
 			"file": "include/header.kit",
+			"file_size": 3915,
+			"file_write_time": 130489251350000000,
 			"settings":
 			{
-				"buffer_size": 3692,
+				"buffer_size": 3518,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "include/Variable.Kit",
+			"file": "page.kit",
 			"settings":
 			{
-				"buffer_size": 95,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.kit",
-			"settings":
-			{
-				"buffer_size": 4777,
+				"buffer_size": 1433,
 				"line_ending": "Unix"
 			}
 		}
@@ -140,6 +151,18 @@
 		"height": 400.0,
 		"selected_items":
 		[
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"i p",
+				"Package Control: Install Package"
+			],
 			[
 				"e",
 				"Emmet: Toggle Comment"
@@ -241,7 +264,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 515.0
+		"width": 583.0
 	},
 	"console":
 	{
@@ -263,31 +286,39 @@
 	"file_history":
 	[
 		"/Users/Dean/Sites/FStest/feature.kit",
+		"/Users/Dean/Sites/FStest/FutureWay.kit",
 		"/Users/Dean/Sites/FStest/application.kit",
-		"/Users/Dean/Sites/FStest/index.kit",
-		"/Users/Dean/Sites/FStest/Project.kit",
-		"/Users/Dean/Sites/FStest/Project.html",
 		"/Users/Dean/Sites/FStest/include/header.kit",
 		"/Users/Dean/Sites/FStest/about.kit",
-		"/Users/Dean/Sites/FStest/FutureWay.kit",
+		"/Users/Dean/Sites/FStest/Project.kit",
+		"/Users/Dean/Sites/FStest/page.kit",
+		"/Users/Dean/Downloads/Google2SRT-0.6.1/src/Bundle.properties",
+		"/Users/Dean/Sites/DeptMember/background/add_job1.php",
+		"/Users/Dean/Sites/FStest/dist/css/bootstrap.css",
+		"/Users/Dean/Sites/FStest/dist/css/bootstrap.min.css",
+		"/Users/Dean/Sites/FStest/include/footer.kit",
+		"/Users/Dean/Sites/FStest/assets/css/carousel.css",
+		"/Users/Dean/Sites/FStest/index.kit",
+		"/Users/Dean/Sites/FStest/assets/css/global.css",
+		"/Users/Dean/Sites/FStest/about.html",
+		"/Users/Dean/Sites/FStest/bower_components/jquery.lazyload/bower.json",
+		"/Users/Dean/Sites/FStest/dist/js/bootstrap.js",
+		"/Users/Dean/Sites/FStest/js/button.js",
+		"/Users/Dean/Sites/FStest/include/footer.html",
+		"/Users/Dean/Sites/FStest/dist/fonts/glyphicons-halflings-regular.svg",
+		"/Users/Dean/Sites/FStest/FS2.0.sublime-project",
+		"/Users/Dean/Sites/FStest/include/Variable.Kit",
+		"/Users/Dean/Sites/FStest/Project.html",
 		"/Users/Dean/Sites/FStest/images/PSD/兩岸大學生研習營",
 		"/Users/Dean/Sites/FStest/index.html",
 		"/Users/Dean/Sites/FStest/js/scrollspy.js",
 		"/Users/Dean/Sites/FStest/docs-assets/js/filesaver.js",
-		"/Users/Dean/Sites/FStest/include/Variable.Kit",
-		"/Users/Dean/Sites/FStest/include/footer.kit",
-		"/Users/Dean/Sites/FStest/assets/css/global.css",
-		"/Users/Dean/Sites/FStest/about.html",
-		"/Users/Dean/Sites/FStest/assets/css/carousel.css",
 		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
 		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/Dean/Sites/FStest/FS2.0.sublime-project",
-		"/Users/Dean/Sites/FStest/dist/fonts/glyphicons-halflings-regular.svg",
 		"/Users/Dean/Sites/FStest/include/header.html",
-		"/Users/Dean/Sites/FStest/page.kit",
 		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
@@ -339,7 +370,7 @@
 	],
 	"find":
 	{
-		"height": 43.0
+		"height": 89.0
 	},
 	"find_in_files":
 	{
@@ -357,6 +388,31 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"$('body').scrollspy({\n    target: '.sideBar'\n});",
+			"js",
+			"- 中央資管",
+			"primary",
+			"panel-primary",
+			"            \n",
+			"class",
+			"a",
+			"h3",
+			"btn",
+			"default",
+			"info",
+			"group",
+			"<li",
+			"li",
+			"h2",
+			"h3",
+			"btn",
+			"<a",
+			"inner",
+			"carousel",
+			"strong",
+			"span",
+			"個人",
+			"個人生ㄑㄧㄥ",
 			"img",
 			"/image",
 			"/im",
@@ -459,32 +515,7 @@
 			"table",
 			"h1",
 			"/a",
-			"href",
-			"img",
-			"sportrecommend",
-			"foreign",
-			"class",
-			"group",
-			"<li>",
-			"li",
-			"h1",
-			"<a",
-			"a",
-			"a'",
-			"a",
-			"h1",
-			"p",
-			"cellspacing",
-			"h1",
-			"image",
-			"id",
-			"h3",
-			"h1",
-			"color",
-			"@",
-			"介紹",
-			"sep",
-			".."
+			"href"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -492,6 +523,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"./i"
 		],
 		"reverse": false,
@@ -503,24 +535,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "feature.kit",
+					"file": "include/footer.kit",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 25675,
+						"buffer_size": 1183,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								288,
-								288
+								1128,
+								1128
 							]
 						],
 						"settings":
@@ -528,61 +560,61 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close"
 							],
-							"history_list_is_closing": true,
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sftp_duplicate_views": 0,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 243.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -590,7 +622,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6274,
+						"buffer_size": 1384,
 						"regions":
 						{
 							"match":
@@ -599,136 +631,28 @@
 								"regions":
 								[
 									[
-										230,
-										233
+										198,
+										260
 									],
 									[
-										545,
-										548
+										415,
+										477
 									],
 									[
-										937,
-										940
+										629,
+										691
 									],
 									[
-										1242,
-										1245
+										845,
+										907
 									],
 									[
-										1565,
-										1568
+										1056,
+										1118
 									],
 									[
-										1841,
-										1844
-									],
-									[
-										2227,
-										2230
-									],
-									[
-										2603,
-										2606
-									],
-									[
-										2619,
-										2622
-									],
-									[
-										2934,
-										2937
-									],
-									[
-										2950,
-										2953
-									],
-									[
-										3266,
-										3269
-									],
-									[
-										3282,
-										3285
-									],
-									[
-										3466,
-										3469
-									],
-									[
-										3482,
-										3485
-									],
-									[
-										3712,
-										3715
-									],
-									[
-										3728,
-										3731
-									],
-									[
-										4010,
-										4013
-									],
-									[
-										4026,
-										4029
-									],
-									[
-										4340,
-										4343
-									],
-									[
-										4598,
-										4601
-									],
-									[
-										4856,
-										4859
-									],
-									[
-										5111,
-										5114
-									],
-									[
-										5361,
-										5364
-									],
-									[
-										5389,
-										5392
-									],
-									[
-										5404,
-										5407
-									],
-									[
-										5609,
-										5612
-									],
-									[
-										5642,
-										5645
-									],
-									[
-										5657,
-										5660
-									],
-									[
-										5914,
-										5917
-									],
-									[
-										5947,
-										5950
-									],
-									[
-										5962,
-										5965
-									],
-									[
-										6196,
-										6199
+										1270,
+										1332
 									]
 								],
 								"scope": ""
@@ -737,8 +661,8 @@
 						"selection":
 						[
 							[
-								938,
-								938
+								1306,
+								1306
 							]
 						],
 						"settings":
@@ -746,42 +670,46 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -798,27 +726,27 @@
 							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 222.0,
+						"translation.y": 784.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "include/header.kit",
+					"file": "Project.kit",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3692,
+						"buffer_size": 3585,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1074,
-								1074
+								3584,
+								3584
 							]
 						],
 						"settings":
@@ -826,51 +754,53 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close"
 							],
-							"history_list_is_closing": true,
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sftp_duplicate_views": 0,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
@@ -885,19 +815,19 @@
 				},
 				{
 					"buffer": 3,
-					"file": "include/Variable.Kit",
+					"file": "include/header.kit",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 95,
+						"buffer_size": 3518,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								95,
-								95
+								567,
+								567
 							]
 						],
 						"settings":
@@ -905,42 +835,46 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -948,96 +882,99 @@
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "index.kit",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4777,
-						"regions":
-						{
-						},
-						"selection":
-						[
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close"
-							],
-							"history_list_is_closing": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sftp_duplicate_views": 0,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 356.0,
+						"translation.y": 133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "page.kit",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1432,
+								1432
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -1047,7 +984,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 43.0
 	},
 	"layout":
 	{
@@ -1058,18 +995,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -1087,6 +1017,10 @@
 	{
 		"height": 0.0
 	},
+	"output.git":
+	{
+		"height": 146.0
+	},
 	"output.sftp":
 	{
 		"height": 0.0
@@ -1103,6 +1037,78 @@
 		"selected_items":
 		[
 			[
+				"he",
+				"include/header.kit"
+			],
+			[
+				"foo",
+				"include/footer.kit"
+			],
+			[
+				"fe",
+				"feature.kit"
+			],
+			[
+				"ab",
+				"about.kit"
+			],
+			[
+				"hea",
+				"include/header.kit"
+			],
+			[
+				"pa",
+				"page.kit"
+			],
+			[
+				"fea",
+				"feature.kit"
+			],
+			[
+				"app",
+				"application.kit"
+			],
+			[
+				"",
+				"application.kit"
+			],
+			[
+				"abo",
+				"about.html"
+			],
+			[
+				"ap",
+				"application.kit"
+			],
+			[
+				"g",
+				"assets/css/global.css"
+			],
+			[
+				"in",
+				"index.kit"
+			],
+			[
+				"bm",
+				"dist/css/bootstrap.min.css"
+			],
+			[
+				"bo",
+				"dist/css/bootstrap.css"
+			],
+			[
+				"boom",
+				"dist/css/bootstrap.min.css"
+			],
+			[
+				"h",
+				"include/header.kit"
+			],
+			[
+				"fo",
+				"include/footer.kit"
+			],
+			[
 				"pr",
 				"Project.kit"
 			],
@@ -1115,68 +1121,20 @@
 				"FutureWay.kit"
 			],
 			[
-				"fe",
-				"feature.kit"
-			],
-			[
-				"app",
-				"application.kit"
-			],
-			[
-				"in",
-				"index.kit"
-			],
-			[
-				"",
-				"include/Variable.Kit"
-			],
-			[
-				"h",
-				"include/header.kit"
-			],
-			[
 				"var",
 				"include/Variable.Kit"
-			],
-			[
-				"hea",
-				"include/header.kit"
-			],
-			[
-				"he",
-				"include/header.kit"
-			],
-			[
-				"ab",
-				"about.kit"
-			],
-			[
-				"ap",
-				"application.kit"
 			],
 			[
 				"css",
 				"assets/css/global.css"
 			],
 			[
-				"fo",
-				"include/footer.kit"
-			],
-			[
 				"c",
 				"assets/css/carousel.css"
 			],
 			[
-				"g",
-				"assets/css/global.css"
-			],
-			[
 				"a",
 				"application.kit"
-			],
-			[
-				"foo",
-				"include/footer.kit"
 			],
 			[
 				"head",
@@ -1203,20 +1161,8 @@
 				"Project.kit"
 			],
 			[
-				"fea",
-				"feature.kit"
-			],
-			[
-				"pa",
-				"page.kit"
-			],
-			[
 				"pag",
 				"page.kit"
-			],
-			[
-				"abo",
-				"about.kit"
 			],
 			[
 				"ca",
@@ -1258,6 +1204,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"~/Sites/NCUIM/NCUIM.sublime-project"
+			]
 		],
 		"width": 380.0
 	},

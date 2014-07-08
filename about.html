@@ -1,5 +1,16 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -11,13 +22,16 @@
     <meta name="author" content="">
     <meta name="keyword" content="NCU ,IM ,未來學生專區 ,資管 ,中央大學">
     <link rel="shortcut icon" href="/docs-assets/ico/favicon.png">
+    <!-- core CSS -->
+    <link href="./dist/css/bootstrap.css" rel="stylesheet">
+    <!-- bootstarp css have been modifiy one line in carousel!! DO NOT USE OTHER FILE WITHOUT CHECKING IT!!-->
+    <link href="./assets/css/global.css" rel="stylesheet">
 
     <title>
-        基本認知- 中央資管    </title>
+        基本認知
+    </title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="./dist/css/bootstrap.css" rel="stylesheet">
-    <link href="./assets/css/global.css" rel="stylesheet">
+
 
     <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
@@ -40,8 +54,9 @@
         m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-    ga('create', 'UA-12529451-7', '140.115.80.33');
+    ga('create', 'UA-12529451-7', 'auto');
     ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
     ga('send', 'pageview');
     </script>
 </head>
@@ -85,6 +100,7 @@
 
         </div>
     </div>
+
 
 <div class="headbg" data-bg="2">
 </div>
@@ -153,7 +169,7 @@
                         畢業生論文發表數量上全球排名第87、亞洲第7，博士生的發表人數 更一舉衝到全球Top10
                     </li>
                 </ul>
-                <div class="panel-body collapse in" id="new">
+                <div class="panel-body collapse" id="new">
                     <hr>
                     <p>曾被《天下雜誌》評定全國第一的中央大學資管系，在Communications of the Association for Information Systems所調查的全球學者「資訊系統領先期刊」(leading Journals )中，論文發表量名列全球第43名，是全國唯一進入全球Top50的學校，博士生的發表人數更一舉衝到全球Top10，再次證明資管系「天下第一」名不虛傳。
                     </p>
@@ -260,24 +276,26 @@
 <!-- Bootstrap core JavaScript
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="./dist/js/jquery-2.1.0.min.js"></script>
-<script src="./dist/js/bootstrap.min.js"></script>
-<script src="./dist/js/jquery.nailthumb.1.1.min.js"></script>
-<script src="./bower_components/jquery.lazyload/jquery.lazyload.js" type="text/javascript"></script>
 
-<script type="text/javascript">
+<script src="./dist/js/jquery-2.1.0.min.js"></script>
+
+<script async type="text/javascript">
 $(function() {
-    $("img.lazy").lazyload();
+    $.getScript("./bower_components/jquery.lazyload/jquery.lazyload.js", function() {
+        $("img.lazy").lazyload();
+    });
+    $.getScript("./dist/js/bootstrap.min.js", function() {
+        $('body').scrollspy({
+            target: '.sideBar'
+        });
+    });
+    $.getScript("./dist/js/jquery.nailthumb.1.1.min.js");
 });
 </script>
 </body>
 
 </html>
-<script type="text/javascript">
-$('body').scrollspy({
-    target: '.sideBar'
-});
-</script>
+
 
 <style>
 .RoundBox tr:first-child td {

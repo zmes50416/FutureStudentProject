@@ -1,5 +1,16 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -11,13 +22,16 @@
     <meta name="author" content="">
     <meta name="keyword" content="NCU ,IM ,未來學生專區 ,資管 ,中央大學">
     <link rel="shortcut icon" href="/docs-assets/ico/favicon.png">
+    <!-- core CSS -->
+    <link href="./dist/css/bootstrap.css" rel="stylesheet">
+    <!-- bootstarp css have been modifiy one line in carousel!! DO NOT USE OTHER FILE WITHOUT CHECKING IT!!-->
+    <link href="./assets/css/global.css" rel="stylesheet">
 
     <title>
-        入學管道 - 中央資管    </title>
+        入學管道
+    </title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="./dist/css/bootstrap.css" rel="stylesheet">
-    <link href="./assets/css/global.css" rel="stylesheet">
+
 
     <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
@@ -40,8 +54,9 @@
         m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-    ga('create', 'UA-12529451-7', '140.115.80.33');
+    ga('create', 'UA-12529451-7', 'auto');
     ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
     ga('send', 'pageview');
     </script>
 </head>
@@ -85,6 +100,7 @@
 
         </div>
     </div>
+
 
 <div class="headbg" data-bg="3"></div>
 
@@ -215,7 +231,7 @@
                     <tr>
                         <td>102</td>
                         <td>54</td>
-                        <td>69</td>
+                        <td>67</td>
                     </tr>
 
                 </tbody>
@@ -289,19 +305,19 @@
                     <tr>
                         <td>100學年</td>
                         <td>463.55</td>
-                        <td>收50人</td>
+                        <td>收63人</td>
                     </tr>
 
                     <tr>
                         <td>101學年</td>
                         <td>478.10</td>
-                        <td>收50人</td>
+                        <td>收53人</td>
                     </tr>
 
                     <tr>
                         <td>102學年</td>
                         <td>460.30</td>
-                        <td>收57人</td>
+                        <td>收58人</td>
                     </tr>
                 </tbody>
             </table>
@@ -446,21 +462,23 @@
 <!-- Bootstrap core JavaScript
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="./dist/js/jquery-2.1.0.min.js"></script>
-<script src="./dist/js/bootstrap.min.js"></script>
-<script src="./dist/js/jquery.nailthumb.1.1.min.js"></script>
-<script src="./bower_components/jquery.lazyload/jquery.lazyload.js" type="text/javascript"></script>
 
-<script type="text/javascript">
+<script src="./dist/js/jquery-2.1.0.min.js"></script>
+
+<script async type="text/javascript">
 $(function() {
-    $("img.lazy").lazyload();
+    $.getScript("./bower_components/jquery.lazyload/jquery.lazyload.js", function() {
+        $("img.lazy").lazyload();
+    });
+    $.getScript("./dist/js/bootstrap.min.js", function() {
+        $('body').scrollspy({
+            target: '.sideBar'
+        });
+    });
+    $.getScript("./dist/js/jquery.nailthumb.1.1.min.js");
 });
 </script>
 </body>
 
 </html>
-<script type="text/javascript">
-$('body').scrollspy({
-    target: '.sideBar'
-});
-</script>
+
